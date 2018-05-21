@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+  <movie>
+    <id>1</id>
+    <title>Star Wars-A New Hope</title>
+    <directors>George Lucas</directors>
+    <genres>Sicience Fiction/Fantasy</genres>
+    <popularIndex>9.0</popularIndex>
+    <releaseDate>5/25/1977</releaseDate>
+  </movie>
+  <movie>
+    <id>2</id>
+    <title>Star Wars-The Empire Strikes Back</title>
+    <directors>Irvin Kershner</directors>
+    <genres>Sicience Fiction/Fantasy</genres>
+    <popularIndex>9.5</popularIndex>
+    <releaseDate>5/21/1980</releaseDate>
+  </movie>
+  <movie>
+    <id>3</id>
+    <title>Star Wars-Return of the Jedi</title>
+    <directors>Richard Marquand</directors>
+    <genres>Sicience Fiction/Fantasy</genres>
+    <popularIndex>9.5</popularIndex>
+    <releaseDate>5/25/1983</releaseDate>
+  </movie>
+  <movie>
+    <id>4</id>
+    <title>Avengers: Age of Ultron</title>
+    <directors>Joss Whedon</directors>
+    <genres>Sicience Fiction/Fantasy</genres>
+    <popularIndex>8.5</popularIndex>
+    <releaseDate>5/1/2015</releaseDate>
+  </movie>
+  <movie>
+    <id>5</id>
+    <title>Avengers: Infinity War</title>
+    <directors>Anthony Russo/Joe Russo</directors>    
+    <genres>Sicience Fiction/Fantasy</genres>
+    <popularIndex>9.5</popularIndex>
+    <releaseDate>4/27/2018</releaseDate>
+  </movie>
+</movies>
