@@ -12,7 +12,11 @@ namespace PopularMovies
 {
     public partial class Default : System.Web.UI.Page
     {
-        private IPopularMovie movieMgr = new MovieManager(new XmlMovieRepository());
+        private IPopularMovie movieMgr;
+        public Default(IPopularMovie movieManager)
+        {
+            movieMgr = movieManager;
+        }
 
         public async Task<SelectResult> movieList_GetData()
         {
